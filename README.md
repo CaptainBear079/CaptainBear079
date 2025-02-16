@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaeptn Baer</h1>
+<h1 align="center">Hi 👋, I'm Captain Baer</h1>
 <h3 align="center">I'm from Germany and I like to develop games and apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaeptnbaer079&label=Profile%20views&color=0e75b6&style=flat" alt="kaeptnbaer079" /> </p>
